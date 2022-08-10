@@ -1,6 +1,6 @@
 solar_system_ephemeris
 ======================
 
-
 Modified N-Body code to include non newtonian forces acting on celestial bodies such as Yarkovsky effect, YORP and Poynting–Robertson drag
+
 work in progress
